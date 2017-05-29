@@ -1,0 +1,15 @@
+{
+    "name": "aunpunchaya/calculator",
+    "authors": [
+        {
+            "name": "Aunpunchaya",
+            "email": "punchayak57@email.nu.ac.th"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "aunpunchaya\\calculator\\":"src/"
+        }
+    }
+}
